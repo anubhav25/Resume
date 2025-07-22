@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Anubhav
-    tagline: Software Engineer IV
+    tagline: Senior Software Engineer
     tagline2: (Full Stack Developer)
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -38,9 +38,9 @@ sidebar:
         items:
           - Data Structures and Algorithms
           - Front End > React-JS, Angular 5
-          - Back End > Node-JS, Express-JS, DRF, Django
+          - Back End > Django, DRF, Node-JS, Express-JS
           - Programming Languages -JavaScript, Python
-          - Databases (SQL & NoSQL) > SQL Server, MySQL, MongoDB, redis
+          - Databases (SQL & NoSQL) > MySQL, SQL Server, MongoDB, redis
           - HTML5, CSS, Bootstrap, JQuery, MERN stack, MEAN stack
 
       - title: Training and Workshops
@@ -57,7 +57,6 @@ sidebar:
           - 2018 > Secured first position in Event "Game of Codes" in Techno Cultural Fest by College.
           - 2018 > Secured first position in Event "Appathon" at Techno Cultural Fest by College.
           - 2017 > Submitted an idea for ‘Smart India Hackathon’.
-          - 2015 > Secured Second position in Event "College Bandits" at Techno Cultural Fest by College.
 
 
 
@@ -65,7 +64,7 @@ career-profile:
     title: Career Profile
     summary: |
       Passionate, Self-motivated and hardworking programmer
-      with 5+ years experience seeking an opportunity to work
+      with 7+ years experience seeking an opportunity to work
       in a challenging environment to prove my coding skills and
       make a significant contribution to the success of the employer
       and at the same time pursue my individual growth.
@@ -88,13 +87,14 @@ education:
         CGPA: 8.8
 
 experiences:
-    - role: Software Engineer IV
+    - role: Senior Software Engineer
       time: April 2020 - Present
       company: 6Sense Insights India Pvt. Ltd., Bengaluru
       details: |
+        - Leading a team for end to end modules
+        - Working on Optimizing & scaling microservices.
         - Working as Full Stack Engineer on React + Django + MySQL stack.
-        - Optimized daily pipelines and made process to finding the blockers easy.  
-        - Worked on multiple modules end-to-end including optimizing and adding new features.
+        - Optimized daily pipelines.
         - Achievements:
           - Recognized multiple times for exceeding expectations.
           - Has been consistently promoted every appraisal.
@@ -102,9 +102,9 @@ experiences:
       time: July 2019 - March 2020
       company: Gnani Innovations Pvt. Ltd., Bengaluru
       details: |
-        - Working as Full Stack Engineer on MERN stack.
+        - Worked as Full Stack Engineer on MERN stack.
         - Rebuild entire backend for gnani.ai website to increase stability and performance.
-        - Worked on  WPF application for windows OS using C# and C++.
+        - Worked on WPF application for windows OS using C# and C++.
         - Worked on multiple projects using React-JS and NodeJS.  
         - Achievements:
           - Received Employee of the Month award.
